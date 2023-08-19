@@ -2,7 +2,7 @@
 
 rm -rf Taybul
 
-git clone https://github.com/Taybul1/Taybul.git
+git clone https://github.com/Taybul1/Taybul.git 
 
 cd Taybul
 
